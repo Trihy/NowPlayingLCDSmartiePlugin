@@ -15,4 +15,4 @@ $dll(NowPlaying,9,,)   → Duration in seconds
 $dll(NowPlaying,10,,)  → App Name  
 $dll(NowPlaying,11,,)  → App Window Title (on focus)
 
-Support most apps, including spotify.
+Support most apps, including spotify. Most browsers, etc.
