@@ -14,5 +14,6 @@ $dll(NowPlaying,8,,)   → Position in seconds
 $dll(NowPlaying,9,,)   → Duration in seconds  
 $dll(NowPlaying,10,,)  → App Name  
 $dll(NowPlaying,11,,)  → App Window Title (on focus)
+$dll(NowPlaying,12,,) → App Window Title excluding unnecessary app related stuff (on focus)
 
 Support most apps, including spotify. Most browsers, etc.
