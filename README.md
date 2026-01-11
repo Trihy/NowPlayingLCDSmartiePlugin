@@ -7,8 +7,8 @@ $dll(NowPlaying,1,,)   → Artist
 $dll(NowPlaying,2,,)   → Title  
 $dll(NowPlaying,3,,)   → Album  
 $dll(NowPlaying,4,,)   → Artist - Title  
-$dll(NowPlaying,5,,) → Artist - Album 
-$dll(NowPlaying,6,,) → Title - Album 
+$dll(NowPlaying,5,,) → Artist - Album  
+$dll(NowPlaying,6,,) → Title - Album  
 $dll(NowPlaying,7,,)   → State (Playing / Paused)  
 $dll(NowPlaying,8,,)   → Position MM:SS  
 $dll(NowPlaying,9,,)   → Duration MM:SS  
